@@ -95,6 +95,7 @@ hello          # Native executable (~30MB, runs standalone)
 Send your .py file and receive your executable.
 
 📱 **Whatsapp**: +92 335 1431900
+
 ✉️ **Email**: bnmn6464@gmail.com
 
 ---
