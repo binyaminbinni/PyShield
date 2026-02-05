@@ -90,12 +90,13 @@ hello          # Native executable (~30MB, runs standalone)
 
 ## 📞 Contact / Order
 
-Ready to compile your Python script?
+**Ready to compile your Python script?**
 
 Send your .py file and receive your executable.
 
-📱 WhatsApp: +92 335 1431900
-📧 Email: bnmn6464@gmail.com
+📱 **Whatsapp**: +92 335 1431900
+✉️ **Email**: bnmn6464@gmail.com
+
 ---
 
 ## ⚠️ Limitations
