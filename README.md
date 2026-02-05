@@ -92,8 +92,8 @@ hello          # Native executable (~30MB, runs standalone)
 
 **Ready to compile your Python script?**
 
-📱 **WhatsApp:** +92 335 1431900  
-📧 **Email:** bnmn6464@gmail.com
+📱 *WhatsApp:* +92 335 1431900  
+📧 *Email:* bnmn6464@gmail.com
 ---
 
 ## ⚠️ Limitations
