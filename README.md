@@ -9,6 +9,8 @@
 A service that compiles your `.py` Python files into **native executable binaries** that:
 
 - ✅ Run without Python installed
+- ✅ No Runtime Temp Extraction
+- ✅ Secure and Locked Environment
 - ✅ Work on any compatible Android device
 - ✅ Include all dependencies built-in
 - ✅ Are fully portable and self-contained
